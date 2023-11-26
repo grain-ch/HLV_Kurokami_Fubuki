@@ -1,0 +1,7 @@
+<JSD019_Fubuki_1943_Bow.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/HLV_Kurokami_Fubuki_Mod/JSD106_Fubuki/ship/lods/JSD019_Fubuki_1943_Bow_lod1	</parent>
+	<extent>	10.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Kurokami_Fubuki_Mod/JSD106_Fubuki/ship/JSD019_Fubuki_1943_Bow	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSD019_Fubuki_1943_Bow.model>
