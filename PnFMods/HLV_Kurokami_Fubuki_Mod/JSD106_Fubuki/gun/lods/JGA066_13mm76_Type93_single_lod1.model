@@ -1,7 +1,0 @@
-<JGA066_13mm76_Type93_single_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Kurokami_Fubuki_Mod/JSD106_Fubuki/gun/lods/JGA066_13mm76_Type93_single_lod2	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Kurokami_Fubuki_Mod/JSD106_Fubuki/gun/lods/JGA066_13mm76_Type93_single_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JGA066_13mm76_Type93_single_lod1.model>
